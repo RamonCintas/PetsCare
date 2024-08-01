@@ -124,4 +124,5 @@ Este projeto é licenciado por [MIT](./LICENSE).
 ---
 ## Observação:
 ## Para testar no smartphone instale o aplicativo da expo na play store e scaneie o qrcode do site da expo.dev
+## Deploy da api CRUD doações online + banco de dados PostgreSQL no render válido por 1 mês no plano gratuito. Video tutorial: https://www.youtube.com/watch?v=fwWvgk_SW2g 
 ---
