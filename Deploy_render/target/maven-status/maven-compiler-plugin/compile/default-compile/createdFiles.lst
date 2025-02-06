@@ -1,0 +1,4 @@
+br\com\ProjetoInterdisciplinar\pi\controller\DoacoesController.class
+br\com\ProjetoInterdisciplinar\pi\model\DoacoesModel.class
+br\com\ProjetoInterdisciplinar\pi\PiApplication.class
+br\com\ProjetoInterdisciplinar\pi\repository\DoacoesRepository.class
